@@ -1,6 +1,8 @@
 # I Love You R3000: A C++ Based MIPS R3000 Simulator
 Start Date: March, 2023
 
+[View Project Report](https://github.com/Srinanda-Yallapragada/i-love-you-r3000/blob/main/CS535%20Final%20Report%20Edited.pdf)  
+
 This project is a software simulator of the MIPS R3000 processor.
 
 # References
